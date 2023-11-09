@@ -1,0 +1,4 @@
+# clone-project-TestTube
+This is a simple youtube webpage clone with mock data.
+To run the files in the vscode cli type: npm install; npm run dev 
+Ctrl+click the blue link of the port in the cli to open the webpage.

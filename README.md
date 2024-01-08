@@ -3,9 +3,9 @@ This is a simple youtube webpage clone with mock data , which was built as a lea
 
 
 To run the files in the vscode cli type: 
-npm install;
-npm run dev
-And finally locahost link to open the page.
+1. npm install;
+2. npm run dev
+3. locahost link to open the page.
 
 
 You can find a guide on how to build the same project on : https://www.youtube.com/watch?v=ymGB1lqP1CM

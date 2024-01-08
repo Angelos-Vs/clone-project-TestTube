@@ -3,13 +3,8 @@ This is a simple youtube webpage clone with mock data , which was built as a lea
 
 
 To run the files in the vscode cli type: 
-'''bash
 npm install;
-'''
-'''bash
 npm run dev
-'''
-
 And finally locahost link to open the page.
 
 
